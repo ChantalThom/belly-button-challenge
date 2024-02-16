@@ -1,5 +1,5 @@
-# belly-button-challenge
-Belly Button Dataset
+
+# Belly Button Dataset
 
 In this activity, I successfully built an interactive dashboard that explores the Belly Button Biodiversity dataset which catalogs the microbes that colonize human navels. Can you believe our navels have these microbes present?
 
